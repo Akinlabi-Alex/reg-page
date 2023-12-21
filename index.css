@@ -26,6 +26,7 @@ nav{
     display: flex;
     align-items: center;
 }
+
 .logo{
     flex-grow: 1;
     cursor: pointer;
