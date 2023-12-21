@@ -27,6 +27,10 @@ nav{
     align-items: center;
 }
 
+img{
+    width: 45px;
+}
+
 .logo{
     flex-grow: 1;
     cursor: pointer;
